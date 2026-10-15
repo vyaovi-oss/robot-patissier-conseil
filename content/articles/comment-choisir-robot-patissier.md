@@ -5,6 +5,7 @@ slug: "comment-choisir-robot-patissier"
 description: "Capacité du bol, puissance, mouvement planétaire, accessoires, bruit, budget : tous les critères pour bien choisir son robot pâtissier, expliqués simplement."
 categorie: "guides-entretien"
 date: 2026-10-13
+mise_a_jour: 2026-10-15
 image_url: "https://images.unsplash.com/photo-1638792958866-9b3f787ec709?auto=format&fit=crop&w=1200&q=80"
 image_credit: "Photo de Rob Wicks sur Unsplash"
 produits:
@@ -141,3 +142,11 @@ Un robot pâtissier est un investissement à long terme. Vérifiez la **durée d
 - **Pour débuter** : le [[amazon:Moulinex Bake Essential QA160110]].
 
 Envie de comparer davantage de modèles ? Découvrez notre sélection du [meilleur robot pâtissier](/meilleur-robot-patissier/).
+
+## À lire aussi
+
+- [Robot pâtissier ou robot multifonction : lequel choisir ?](/robot-patissier-ou-robot-multifonction/)
+- [Robot pâtissier avec balance intégrée](/robot-patissier-avec-balance/)
+- [Robot pâtissier silencieux : les modèles les plus discrets](/robot-patissier-silencieux/)
+- [Comment nettoyer et entretenir son robot pâtissier](/nettoyer-entretenir-robot-patissier/)
+- [Accessoires KitchenAid : les 6 indispensables](/accessoires-kitchenaid/)
