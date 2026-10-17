@@ -158,8 +158,8 @@ Les trois accessoires de base sont le **fouet** (blancs, chantilly), le **batteu
 
 ## À lire aussi
 
-- Par marque : [meilleur robot pâtissier KitchenAid](/meilleur-robot-patissier-kitchenaid/), [meilleur robot pâtissier Kenwood](/meilleur-robot-patissier-kenwood/), [robot pâtissier Moulinex](/robot-patissier-moulinex/) et [robot pâtissier Smeg](/robot-patissier-smeg/).
+- Par marque : [meilleur robot pâtissier KitchenAid](/meilleur-robot-patissier-kitchenaid/), [meilleur robot pâtissier Kenwood](/meilleur-robot-patissier-kenwood/), [robot pâtissier Moulinex](/robot-patissier-moulinex/), [robot pâtissier Smeg](/robot-patissier-smeg/) et [meilleur robot pâtissier Bosch](/meilleur-robot-patissier-bosch/).
 - Selon vos priorités : [robot pâtissier avec balance](/robot-patissier-avec-balance/) et [robot pâtissier silencieux](/robot-patissier-silencieux/).
-- Vous hésitez avec un autre appareil ? [Robot pâtissier ou robot multifonction](/robot-patissier-ou-robot-multifonction/).
-- Nos recettes : [brioche au robot pâtissier](/recette-brioche-robot-patissier/), [pâte à pizza](/recette-pate-pizza-robot-patissier/), [pain maison](/recette-pain-maison-robot-patissier/) et [génoise](/recette-genoise-robot-patissier/) au robot pâtissier.
+- Vous hésitez avec un autre appareil ? [Robot pâtissier ou robot multifonction](/robot-patissier-ou-robot-multifonction/) et [robot pâtissier ou batteur électrique](/robot-patissier-ou-batteur-electrique/).
+- Nos recettes : [brioche au robot pâtissier](/recette-brioche-robot-patissier/), [pâte à pizza](/recette-pate-pizza-robot-patissier/), [pain maison](/recette-pain-maison-robot-patissier/), [génoise](/recette-genoise-robot-patissier/), [macarons](/recette-macarons-robot-patissier/), [chantilly](/recette-chantilly-robot-patissier/) et [pâte à choux](/recette-pate-a-choux-robot-patissier/) au robot pâtissier.
 - Vous débutez ? [Robot pâtissier pour débutant](/robot-patissier-debutant/) et [quelle vitesse utiliser](/vitesse-robot-patissier/).
