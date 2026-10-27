@@ -1,10 +1,11 @@
 ---
 titre: "Accessoires KitchenAid : les 6 indispensables pour votre robot"
-titre_seo: "Accessoires KitchenAid : les 6 indispensables"
+titre_seo: "Accessoires KitchenAid : les indispensables et la compatibilité"
 slug: "accessoires-kitchenaid"
-description: "Hachoir, laminoir à pâtes, éminceur, sorbetière, batteur à bord flexible : les accessoires KitchenAid les plus utiles pour transformer votre robot pâtissier en vrai centre de cuisine."
+description: "Accessoires KitchenAid : hachoir, laminoir à pâtes, éminceur, sorbetière, batteur flexible. Les plus utiles, leur compatibilité avec le Classic et l'Artisan, et par quoi commencer."
 categorie: "accessoires"
 date: 2026-10-14
+mise_a_jour: 2026-10-27
 image_url: "https://images.unsplash.com/photo-1447279506476-3faec8071eee?auto=format&fit=crop&w=1200&q=80"
 image_credit: "Photo de Jorge Zapata sur Unsplash"
 produits:
@@ -94,6 +95,15 @@ Les accessoires KitchenAid se divisent en deux familles :
 
 **Avant d'acheter, vérifiez toujours la compatibilité** avec la référence de votre robot, indiquée sous l'appareil.
 
+## Quels accessoires pour votre modèle ?
+
+| Votre robot | Prise avant (hachoir, laminoir…) | Accessoires de bol | Notre guide |
+|---|---|---|---|
+| KitchenAid Classic 5K45SS (4,3 L) | Compatible | Prévus pour tête inclinable 4,3 L | [Accessoires KitchenAid Classic](/accessoires-kitchenaid-classic/) |
+| KitchenAid Artisan 5KSM175 / 5KSM185 (4,8 L) | Compatible | Prévus pour tête inclinable 4,8 L | [Accessoires KitchenAid Artisan](/accessoires-kitchenaid-artisan/) |
+| KitchenAid à bol relevable (5,6 L et plus) | Compatible | Prévus pour bol relevable | Vérifiez la fiche produit |
+| KitchenAid Artisan Mini (3,3 L) | Vérifiez la fiche produit | Spécifiques au Mini | Vérifiez la fiche produit |
+
 [[produits]]
 
 ## Tableau récapitulatif
@@ -121,5 +131,14 @@ Les accessoires KitchenAid se divisent en deux familles :
 - **Ne mettez jamais le laminoir à pâtes dans l'eau** : nettoyez-le avec un pinceau sec une fois la pâte séchée.
 - **Séchez immédiatement les pièces en métal** du hachoir pour éviter les traces.
 - **Rangez les petites pièces dans une boîte** pour ne pas les perdre.
+
+## Accessoire KitchenAid pour les pâtes : lequel choisir ?
+
+C'est l'une des questions les plus fréquentes. Deux options principales :
+
+- le [[amazon:KitchenAid set laminoir et découpe pâtes 5KSMPRA]] : laminoir à 8 épaisseurs et découpoirs spaghettis et fettuccine, en inox, avec une brosse de nettoyage ;
+- le [[amazon:KitchenAid kit pâtes 3 en 1 métal 5KSM3MPA]] : laminoir et découpe réunis dans un seul accessoire.
+
+Les deux se fixent sur la prise avant. Pour la recette et les réglages, lisez notre guide des [pâtes fraîches au KitchenAid](/pates-fraiches-kitchenaid/).
 
 Vous n'avez pas encore de KitchenAid ? Découvrez quel modèle choisir dans notre guide du [meilleur robot pâtissier KitchenAid](/meilleur-robot-patissier-kitchenaid/), ou comparez avec la concurrence dans notre duel [KitchenAid ou Kenwood](/kitchenaid-ou-kenwood/).
