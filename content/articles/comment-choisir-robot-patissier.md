@@ -5,7 +5,7 @@ slug: "comment-choisir-robot-patissier"
 description: "Capacité du bol, puissance, mouvement planétaire, accessoires, bruit, budget : tous les critères pour bien choisir son robot pâtissier, expliqués simplement."
 categorie: "guides-entretien"
 date: 2026-10-13
-mise_a_jour: 2026-10-17
+mise_a_jour: 2026-11-01
 image_url: "https://images.unsplash.com/photo-1638792958866-9b3f787ec709?auto=format&fit=crop&w=1200&q=80"
 image_credit: "Photo de Rob Wicks sur Unsplash"
 produits:
@@ -153,3 +153,5 @@ Envie de comparer davantage de modèles ? Découvrez notre sélection du [meille
 - [Robot pâtissier pour débutant : lequel choisir ?](/robot-patissier-debutant/)
 - [Quelle vitesse utiliser sur un robot pâtissier ?](/vitesse-robot-patissier/)
 - [Robot pâtissier Smeg : avis et modèles](/robot-patissier-smeg/)
+- [Quelle taille de bol pour un robot pâtissier ?](/taille-bol-robot-patissier/)
+- [Robot pâtissier reconditionné ou d'occasion : bonne idée ?](/robot-patissier-reconditionne/)
