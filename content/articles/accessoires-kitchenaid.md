@@ -5,7 +5,7 @@ slug: "accessoires-kitchenaid"
 description: "Accessoires KitchenAid : hachoir, laminoir à pâtes, éminceur, sorbetière, batteur flexible. Les plus utiles, leur compatibilité avec le Classic et l'Artisan, et par quoi commencer."
 categorie: "accessoires"
 date: 2026-10-14
-mise_a_jour: 2026-10-27
+mise_a_jour: 2026-11-01
 image_url: "https://images.unsplash.com/photo-1447279506476-3faec8071eee?auto=format&fit=crop&w=1200&q=80"
 image_credit: "Photo de Jorge Zapata sur Unsplash"
 produits:
@@ -142,3 +142,10 @@ C'est l'une des questions les plus fréquentes. Deux options principales :
 Les deux se fixent sur la prise avant. Pour la recette et les réglages, lisez notre guide des [pâtes fraîches au KitchenAid](/pates-fraiches-kitchenaid/).
 
 Vous n'avez pas encore de KitchenAid ? Découvrez quel modèle choisir dans notre guide du [meilleur robot pâtissier KitchenAid](/meilleur-robot-patissier-kitchenaid/), ou comparez avec la concurrence dans notre duel [KitchenAid ou Kenwood](/kitchenaid-ou-kenwood/).
+
+## À lire aussi
+
+- [Bol KitchenAid : tailles, matières et compatibilité](/bol-kitchenaid/)
+- [Hachoir KitchenAid : guide, conseils et recettes](/hachoir-kitchenaid/)
+- [Pièces détachées KitchenAid : où les trouver](/pieces-detachees-kitchenaid/)
+- [KitchenAid Artisan ou Classic : lequel choisir ?](/kitchenaid-artisan-ou-classic/)

@@ -5,6 +5,7 @@ slug: "meilleur-robot-patissier-kitchenaid"
 description: "Artisan, Classic, Mini, bol relevable : quel robot pâtissier KitchenAid choisir ? Nos conseils pour comparer les modèles, leurs bols, leurs prix et trouver celui qui vous convient."
 categorie: "marques-modeles"
 date: 2026-10-14
+mise_a_jour: 2026-11-01
 image_url: "https://images.unsplash.com/photo-1595644258096-69155da290fd?auto=format&fit=crop&w=1200&q=80"
 image_credit: "Photo de Kolby Milton sur Unsplash"
 produits:
@@ -125,3 +126,12 @@ Tous ces modèles possèdent une **prise avant** qui accueille des accessoires o
 - **Pour les grosses quantités** : le [[amazon:KitchenAid Artisan bol relevable 5KSM60SPX]].
 
 Vous hésitez encore avec une autre marque ? Lisez notre duel [KitchenAid ou Kenwood](/kitchenaid-ou-kenwood/) et notre comparatif général du [meilleur robot pâtissier](/meilleur-robot-patissier/).
+
+## À lire aussi sur KitchenAid
+
+- [KitchenAid Artisan ou Classic : lequel choisir ?](/kitchenaid-artisan-ou-classic/)
+- [KitchenAid Artisan Mini : avis, capacité et limites](/kitchenaid-artisan-mini/)
+- [Accessoires KitchenAid Classic](/accessoires-kitchenaid-classic/) et [accessoires KitchenAid Artisan](/accessoires-kitchenaid-artisan/)
+- [Bol KitchenAid : tailles et compatibilité](/bol-kitchenaid/)
+- [Hachoir KitchenAid : guide et recettes](/hachoir-kitchenaid/)
+- [Pièces détachées KitchenAid : où les trouver](/pieces-detachees-kitchenaid/)
